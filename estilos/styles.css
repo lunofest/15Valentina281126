@@ -608,7 +608,7 @@ header {
 }
 
 .donde__img {
-    width: clamp(100px, 100%, 450px);
+    width: clamp(100px, 50%, 250px);
     height: auto;
     object-fit: cover;
     border-radius: 1em;
